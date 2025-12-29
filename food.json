@@ -1,0 +1,234 @@
+{
+  "food_plans": [
+
+    
+    {
+      "name": "Haldiram's",
+      "type": "veg",
+      "average_daily_cost": 300,
+      "city": "Delhi"
+    },
+    {
+      "name": "Saravana Bhavan",
+      "type": "veg",
+      "average_daily_cost": 280,
+      "city": "Delhi"
+    },
+    {
+      "name": "Local North Indian Dhaba",
+      "type": "mixed",
+      "average_daily_cost": 220,
+      "city": "Delhi"
+    },
+    {
+      "name": "Punjabi Tandoor House",
+      "type": "mixed",
+      "average_daily_cost": 450,
+      "city": "Delhi"
+    },
+
+    
+    {
+      "name": "Govinda's Veg Restaurant",
+      "type": "veg",
+      "average_daily_cost": 250,
+      "city": "Mumbai"
+    },
+    {
+      "name": "Jain Bhojanalaya",
+      "type": "veg",
+      "average_daily_cost": 180,
+      "city": "Mumbai"
+    },
+    {
+      "name": "Malwani Kitchen",
+      "type": "mixed",
+      "average_daily_cost": 400,
+      "city": "Mumbai"
+    },
+    {
+      "name": "Street Thali + Non-Veg Add-ons",
+      "type": "mixed",
+      "average_daily_cost": 320,
+      "city": "Mumbai"
+    },
+
+    
+    {
+      "name": "MTR",
+      "type": "veg",
+      "average_daily_cost": 300,
+      "city": "Bengaluru"
+    },
+    {
+      "name": "Udupi Veg Meals",
+      "type": "veg",
+      "average_daily_cost": 220,
+      "city": "Bengaluru"
+    },
+    {
+      "name": "Andhra Meals",
+      "type": "mixed",
+      "average_daily_cost": 350,
+      "city": "Bengaluru"
+    },
+    {
+      "name": "Budget Military Hotel",
+      "type": "mixed",
+      "average_daily_cost": 280,
+      "city": "Bengaluru"
+    },
+
+    
+    {
+      "name": "Murugan Idli Shop",
+      "type": "veg",
+      "average_daily_cost": 200,
+      "city": "Chennai"
+    },
+    {
+      "name": "Annapoorna Veg",
+      "type": "veg",
+      "average_daily_cost": 260,
+      "city": "Chennai"
+    },
+    {
+      "name": "Andhra Mess",
+      "type": "mixed",
+      "average_daily_cost": 330,
+      "city": "Chennai"
+    },
+    {
+      "name": "Seafood Local Mess",
+      "type": "mixed",
+      "average_daily_cost": 500,
+      "city": "Chennai"
+    },
+
+ 
+    {
+      "name": "Iskcon Food Relief",
+      "type": "veg",
+      "average_daily_cost": 180,
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Kamat Veg",
+      "type": "veg",
+      "average_daily_cost": 240,
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Biryani + Meals Combo",
+      "type": "mixed",
+      "average_daily_cost": 420,
+      "city": "Hyderabad"
+    },
+    {
+      "name": "Local Irani Cafe Meals",
+      "type": "mixed",
+      "average_daily_cost": 300,
+      "city": "Hyderabad"
+    },
+
+
+    {
+      "name": "Govinda's Kolkata",
+      "type": "veg",
+      "average_daily_cost": 220,
+      "city": "Kolkata"
+    },
+    {
+      "name": "South Indian Veg Cafe",
+      "type": "veg",
+      "average_daily_cost": 200,
+      "city": "Kolkata"
+    },
+    {
+      "name": "Bengali Fish + Rice Meals",
+      "type": "mixed",
+      "average_daily_cost": 380,
+      "city": "Kolkata"
+    },
+    {
+      "name": "Street Roll + Thali Combo",
+      "type": "mixed",
+      "average_daily_cost": 260,
+      "city": "Kolkata"
+    },
+
+
+    {
+      "name": "Vaishali Veg",
+      "type": "veg",
+      "average_daily_cost": 250,
+      "city": "Pune"
+    },
+    {
+      "name": "Student Veg Mess",
+      "type": "veg",
+      "average_daily_cost": 150,
+      "city": "Pune"
+    },
+    {
+      "name": "Maharashtrian Thali",
+      "type": "mixed",
+      "average_daily_cost": 300,
+      "city": "Pune"
+    },
+    {
+      "name": "Budget Non-Veg Mess",
+      "type": "mixed",
+      "average_daily_cost": 350,
+      "city": "Pune"
+    },
+
+   
+    {
+      "name": "Swati Snacks",
+      "type": "veg",
+      "average_daily_cost": 280,
+      "city": "Ahmedabad"
+    },
+    {
+      "name": "Gujarati Thali Mess",
+      "type": "veg",
+      "average_daily_cost": 220,
+      "city": "Ahmedabad"
+    },
+    {
+      "name": "Mixed Cuisine Cafe",
+      "type": "mixed",
+      "average_daily_cost": 400,
+      "city": "Ahmedabad"
+    },
+
+   
+    {
+      "name": "Corporate Veg Cafeteria",
+      "type": "veg",
+      "average_daily_cost": 320,
+      "city": "Gurugram"
+    },
+    {
+      "name": "Highway Dhaba",
+      "type": "mixed",
+      "average_daily_cost": 450,
+      "city": "Gurugram"
+    },
+
+    {
+      "name": "Student PG Veg Meals",
+      "type": "veg",
+      "average_daily_cost": 180,
+      "city": "Noida"
+    },
+    {
+      "name": "Quick Bites + Non-Veg",
+      "type": "mixed",
+      "average_daily_cost": 300,
+      "city": "Noida"
+    }
+
+  ]
+}

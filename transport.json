@@ -1,0 +1,87 @@
+{
+  "trains": [
+    {
+      "name": "Shatabdi Express",
+      "source": "Delhi",
+      "destination": "Chandigarh",
+      "price": 1200,
+      "departure": "06:00",
+      "arrival": "10:30"
+    },
+    {
+      "name": "Rajdhani Express",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "price": 2200,
+      "departure": "16:30",
+      "arrival": "08:00"
+    },
+    {
+      "name": "Coromandel Express",
+      "source": "Chennai",
+      "destination": "Kolkata",
+      "price": 1800,
+      "departure": "07:45",
+      "arrival": "13:30"
+    },
+    {
+      "name": "Duronto Express",
+      "source": "Bengaluru",
+      "destination": "Delhi",
+      "price": 2400,
+      "departure": "20:00",
+      "arrival": "06:00"
+    },
+    {
+      "name": "Intercity Express",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "price": 350,
+      "departure": "07:00",
+      "arrival": "10:00"
+    }
+  ],
+
+  "flights": [
+    {
+      "name": "IndiGo 6E203",
+      "source": "Bengaluru",
+      "destination": "Delhi",
+      "price": 4200,
+      "departure": "05:30",
+      "arrival": "08:15"
+    },
+    {
+      "name": "Air India AI101",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "price": 5500,
+      "departure": "09:00",
+      "arrival": "11:10"
+    },
+    {
+      "name": "Vistara UK820",
+      "source": "Mumbai",
+      "destination": "Chennai",
+      "price": 4800,
+      "departure": "14:20",
+      "arrival": "16:45"
+    },
+    {
+      "name": "Akasa Air QP112",
+      "source": "Hyderabad",
+      "destination": "Bengaluru",
+      "price": 3200,
+      "departure": "18:30",
+      "arrival": "19:40"
+    },
+    {
+      "name": "IndiGo 6E451",
+      "source": "Kolkata",
+      "destination": "Delhi",
+      "price": 4000,
+      "departure": "06:15",
+      "arrival": "08:30"
+    }
+  ]
+}

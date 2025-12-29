@@ -1,0 +1,165 @@
+{
+  "hotels": [
+
+    
+    {
+      "name": "Zostel Delhi",
+      "city": "Delhi",
+      "price_per_night": 900,
+      "type": "hostel",
+      "rating": 4.1
+    },
+    {
+      "name": "Hotel Ajanta",
+      "city": "Delhi",
+      "price_per_night": 1800,
+      "type": "budget",
+      "rating": 3.9
+    },
+    {
+      "name": "Treebo Trend",
+      "city": "Delhi",
+      "price_per_night": 3200,
+      "type": "business",
+      "rating": 4.3
+    },
+
+   
+    {
+      "name": "Backpacker Panda",
+      "city": "Mumbai",
+      "price_per_night": 1100,
+      "type": "hostel",
+      "rating": 4.2
+    },
+    {
+      "name": "Hotel Residency",
+      "city": "Mumbai",
+      "price_per_night": 2500,
+      "type": "budget",
+      "rating": 4.0
+    },
+    {
+      "name": "Ibis Mumbai",
+      "city": "Mumbai",
+      "price_per_night": 4200,
+      "type": "business",
+      "rating": 4.4
+    },
+
+    {
+      "name": "BeAnimal Hostel",
+      "city": "Bengaluru",
+      "price_per_night": 950,
+      "type": "hostel",
+      "rating": 4.3
+    },
+    {
+      "name": "Hotel Nandhini",
+      "city": "Bengaluru",
+      "price_per_night": 2200,
+      "type": "budget",
+      "rating": 3.8
+    },
+    {
+      "name": "Lemon Tree Premier",
+      "city": "Bengaluru",
+      "price_per_night": 4800,
+      "type": "business",
+      "rating": 4.5
+    },
+
+    
+    {
+      "name": "Zostel Chennai",
+      "city": "Chennai",
+      "price_per_night": 850,
+      "type": "hostel",
+      "rating": 4.0
+    },
+    {
+      "name": "Hotel Pearl International",
+      "city": "Chennai",
+      "price_per_night": 2100,
+      "type": "budget",
+      "rating": 3.9
+    },
+    {
+      "name": "The Residency Towers",
+      "city": "Chennai",
+      "price_per_night": 5000,
+      "type": "business",
+      "rating": 4.6
+    },
+
+    
+    {
+      "name": "Tripletree Hostel",
+      "city": "Hyderabad",
+      "price_per_night": 900,
+      "type": "hostel",
+      "rating": 4.1
+    },
+    {
+      "name": "Hotel Platinum Inn",
+      "city": "Hyderabad",
+      "price_per_night": 2400,
+      "type": "budget",
+      "rating": 4.0
+    },
+    {
+      "name": "Novotel Hitech City",
+      "city": "Hyderabad",
+      "price_per_night": 4800,
+      "type": "business",
+      "rating": 4.5
+    },
+
+    
+    {
+      "name": "Zostel Kolkata",
+      "city": "Kolkata",
+      "price_per_night": 800,
+      "type": "hostel",
+      "rating": 4.0
+    },
+    {
+      "name": "Hotel Park Central",
+      "city": "Kolkata",
+      "price_per_night": 1900,
+      "type": "budget",
+      "rating": 3.7
+    },
+    {
+      "name": "The Sonnet",
+      "city": "Kolkata",
+      "price_per_night": 3600,
+      "type": "business",
+      "rating": 4.2
+    },
+
+   
+    {
+      "name": "Student Hostel Pune",
+      "city": "Pune",
+      "price_per_night": 850,
+      "type": "hostel",
+      "rating": 3.9
+    },
+    {
+      "name": "Hotel Shree Panchratna",
+      "city": "Pune",
+      "price_per_night": 2300,
+      "type": "budget",
+      "rating": 4.0
+    },
+    {
+      "name": "Hyatt Place Pune",
+      "city": "Pune",
+      "price_per_night": 4700,
+      "type": "business",
+      "rating": 4.4
+    }
+
+  ]
+}
